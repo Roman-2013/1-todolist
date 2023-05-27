@@ -15,6 +15,7 @@ function App() {
         {id: 4, title: "ReactJS", isDone: false},//2
         {id: 4, title: "ReactJS", isDone: false},//2
     ]
+
     const tasks2 = [
         {id: 1, title: "Hello world", isDone: true},
         {id: 2, title: "I am Happy", isDone: false},
