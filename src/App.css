@@ -16,4 +16,20 @@
 /*  display: flex;*/
 /*  justify-content: space-between;*/
 /*}*/
-
+.btn-filter-active{
+  background-color: mediumaquamarine;
+  color: white;
+  border: none;
+}
+.task-span{
+  font-weight: bolder;
+}
+.task-done{
+  font-weight: normal;
+  opacity: 0.5;
+  text-decoration: line-through;
+}
+.user-error{
+  border: 2px solid red;
+  outline: none;
+}
